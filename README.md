@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssdsai)](https://github.com/Ssdsai/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssdsai&langs_count=8)
 
 
 
