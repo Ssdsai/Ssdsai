@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/languages.svg)
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssdsai)](https://github.com/Ssdsai/github-readme-stats)
 
 <img alt="Sai Dhanush Soma" src="https://github-readme-stats.vercel.app/api?username=Ssdsai"/>
