@@ -6,6 +6,7 @@
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssdsai&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssdsai)](https://github.com/Ssdsai/github-readme-stats)
 
