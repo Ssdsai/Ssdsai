@@ -9,9 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssdsai&langs_count=8)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ssdsai&layout=compact)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ssdsai&layout=compact)
 
-[![Harlok's WakaTime stats](https://github.com/Ssdsai/github-readme-stats&layout=compact)]
+[![Harlok's WakaTime stats](https://github.com/Ssdsai/github-readme-stats&layout=compact)
 
 
 
