@@ -3,6 +3,13 @@
 ![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/languages.svg)
 
+
+![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Ssdsai/github-stats/master/generated/languages.svg)
+
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssdsai&layout=compact&theme=radical)
 
 
