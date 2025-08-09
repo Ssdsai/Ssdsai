@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hi, I’m Sai Dhanush Soma
-Reach out to me on https://www.linkedin.com/in/ssdhanush/ or at stevesid161201@gmail.com
+Reach out to me on https://www.linkedin.com/in/ssdhanush/
 <!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssdsai&show_icons=true&theme=radical)@gmail..
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssdsai&layout=compact&theme=radical)
